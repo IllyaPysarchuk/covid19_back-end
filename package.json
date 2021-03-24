@@ -1,0 +1,15 @@
+{
+  "name": "covid19_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.4.0",
+    "express": "^4.17.1"
+  }
+}
