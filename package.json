@@ -4,15 +4,28 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node download.js && node unzip.js",
+    "uploading": "index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autodetect-decoder-stream": "^2.0.0",
     "axios": "^0.21.1",
     "csv": "^5.4.0",
+    "csv-parser": "^3.0.0",
+    "csv-reader": "^1.0.8",
+    "csvtojson": "^2.0.10",
     "express": "^4.17.1",
+    "frame": "^1.0.0-alpha.2",
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21",
     "mongodb": "^3.6.8",
-    "node-stream-zip": "^1.13.2"
+    "mongoimport": "^1.0.6",
+    "node-stream-zip": "^1.13.2",
+    "splitter": "^0.1.2",
+    "unzip": "^0.1.11",
+    "unzip-js": "^1.0.0",
+    "unzipper": "^0.10.11"
   }
 }
