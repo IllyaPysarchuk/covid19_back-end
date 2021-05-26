@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node download.js && node unzip.js",
-    "uploading": "index.js"
+    "end": "node index.js"
   },
   "author": "",
   "license": "ISC",
