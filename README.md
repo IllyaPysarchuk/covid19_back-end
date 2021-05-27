@@ -13,6 +13,6 @@
 =============
 | Ім'я  | Gmail  | Telegram |
 | :------------ |:---------------:| :-----|
-| Писарчук ілля | Flimka134@gmail.com | @illya_alexeevich |
-| Салун Кирило   |        |  @rilik  |
-|  Прилепа Сергій |        | @seaborg1um |
+| Писарчук ілля | Flimka134@gmail.com | [@illya_alexeevich](https://telegram.me/illya_alexeevich) |
+| Салун Кирило   |        | [@rilik](https://telegram.me/rilik)  |
+|  Прилепа Сергій |        | [@seaborg1um](https://telegram.me/seaborg1um) |
