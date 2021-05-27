@@ -1,5 +1,5 @@
-# covid19_back-end
-covid-19 statisctics 
+# Програма імпорту оперативних даних COVID-19
+
 
 To start project you need to run this commands:
 
