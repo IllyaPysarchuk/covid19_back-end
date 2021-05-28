@@ -16,6 +16,7 @@ let url = "mongodb+srv://admin:Bkmz3213@cluster0.8kdji.mongodb.net/test?authSour
                         let collection = client.db('covid19_statistic').collection(name)
                         collection.deleteMany({})
                             .then(() =>
+
                                 collection.insertMany(csvData)
                             )
                             .then(() => {
@@ -34,5 +35,4 @@ let url = "mongodb+srv://admin:Bkmz3213@cluster0.8kdji.mongodb.net/test?authSour
     }
     uploadFile("files/covid19_by_area_type_hosp_dynamics.csv")
     uploadFile("files/covid19_by_settlement_actual.csv")
-    uploadFile("files/covid19_by_settlement_dynamics.csv")
-
+    //uploadFile("files/covid19_by_settlement_dynamics.csv")
